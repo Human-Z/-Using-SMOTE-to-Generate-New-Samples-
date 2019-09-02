@@ -5,4 +5,4 @@
 
 其中对于信用卡账单记录详细的处理方案可从三张思维导图中获得
 
-最终还对新生成的所有样本数据进行检验，见feature_extract.ipynb
+最终还对新生成的所有样本数据进行检验，见feature_extract&LightGBM.ipynb
